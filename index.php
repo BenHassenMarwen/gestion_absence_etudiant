@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Student Management System</title>
+    <title>Iset sfax</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 
     <!-- Latest compiled and minified CSS -->
