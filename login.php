@@ -45,18 +45,18 @@
 			<form action="login_check.php" method="POST" class="login_form">
 
 				<div>
-					<label class="label_deg">Username</label>
+					<label class="label_deg">Votre Nom</label>
 					<input type="text" name="username">
 				</div>
 
 				<div>
-					<label class="label_deg">Password</label>
+					<label class="label_deg">Mot de Passe</label>
 					<input type="Password" name="password">
 				</div>
 
 				<div>
 
-					<input class="btn btn-primary" type="submit" name="submit" value="Login">
+					<input class="btn btn-primary" type="submit" name="submit" value="Connection">
 				</div>
 
 			</form>

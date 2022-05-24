@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Admin Dashboard</title>
+    <title>Etudiant</title>
 
     <link rel="stylesheet" type="text/css" href="admin.css">
 
@@ -21,7 +21,7 @@
 
     <header class="header">
 
-        <a href="">Admin Dashboard</a>
+        <a href="">etudiant</a>
 
         <div class="logout">
 
@@ -62,18 +62,16 @@
 
     <div class="content">
 
-        <h1>Bienvenu:
-            <?php
-            session_start();
-
-            echo $_SESSION['username']
-            ?>
-        </h1>
+        <h1>Sidebar Accordion</h1>
 
         <p>les statestiques serant affichées ici</p>
 
         <input type="text" name="">
+        <?php
+        session_start();
 
+        echo $_SESSION['username']
+        ?>
 
     </div>
 

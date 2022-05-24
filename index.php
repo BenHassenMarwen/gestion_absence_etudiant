@@ -73,7 +73,7 @@
 
             <div class="col-md-4">
 
-                <img class="teacher" src="teacher1.jpg">
+                <img class="teacher" src="m6.jpg">
 
                 <p>in a vibrant, academically challenging, and encouraging environment where manifold viewpoints are prized and celebrated.</p>
 
@@ -81,14 +81,14 @@
 
             <div class="col-md-4">
 
-                <img class="teacher" src="teacher2.jpg">
+                <img class="teacher" src="m1.jpg">
                 <p>in a vibrant, academically challenging, and encouraging environment where manifold viewpoints are prized and celebrated.</p>
 
             </div>
 
             <div class="col-md-4">
 
-                <img class="teacher" src="teacher3.jpg">
+                <img class="teacher" src="m3.jpg">
                 <p>in a vibrant, academically challenging, and encouraging environment where manifold viewpoints are prized and celebrated.</p>
 
             </div>
@@ -115,7 +115,7 @@
 
             <div class="col-md-4">
 
-                <img class="teacher" src="web.jpg">
+                <img class="teacher" src="m2.jpg">
                 <h3>Web Development</h3>
 
 
@@ -123,14 +123,14 @@
 
             <div class="col-md-4">
 
-                <img class="teacher" src="graphic.jpg">
+                <img class="teacher" src="m5.jpg">
                 <h3>Graphics Design</h3>
 
             </div>
 
             <div class="col-md-4">
 
-                <img class="teacher" src="marketing.png">
+                <img class="teacher" src="m5.jpg">
                 <h3>Marketing</h3>
 
             </div>
@@ -143,47 +143,18 @@
 
 
     <center>
-        <h1 class="adm">Admission Form</h1>
+        <h1 class="adm">COPY RIGTH Master DSIR 2022</h1>
 
     </center>
 
 
     <div align="center" class="admission_form">
 
-        <form>
-
-            <div class="adm_int">
-                <label class="label_text">Name</label>
-                <input class="input_deg" type="text" name="">
-            </div>
-
-            <div class="adm_int">
-                <label class="label_text">Email</label>
-                <input class="input_deg" type="text" name="">
-            </div>
-
-            <div class="adm_int">
-                <label class="label_text">Phone</label>
-                <input class="input_deg" type="text" name="">
-            </div>
-            <div class="adm_int">
-                <label class="label_text">Message</label>
-                <textarea class="input_txt"></textarea>
-            </div>
-
-            <div class="adm_int">
-
-                <input class="btn btn-primary" id="submit" type="submit" value="apply">
-            </div>
-
-
-        </form>
 
     </div>
 
 
     <footer>
-        <h3 class="footer_text">All @copyright reserved by web tech knowledge</h3>
     </footer>
 
 
